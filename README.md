@@ -2,7 +2,7 @@
 
 I'm Sai Pavani Cheruku. I am a full time Data Scientist💻
 
--> 🛠️ Technologies and Tools I use:
+🛠️ Technologies and Tools I use:
 -> Python (Numpy, Pandas, Scipy, Scikit-Learn), Tableau, SQL, SAS, R, AWS, Hadoop, A/B testing, PySpark, Power BI, PyCharm, Data Mining, Machine Learning, Supervised Learning/ Unsupervised Learning, Logistic Regression, Jupyter, Predictive Analytics, Reinforcement Learning, Deep Learning, Data Vizualization
 
 👨🏻‍💻 About Me:
