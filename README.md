@@ -14,4 +14,4 @@ I'm Sai Pavani Cheruku. I am a full time Data Scientist💻
 - 🎯 Life Hack: "Code & Drink & Dance"
 - 🏆 Winner of Annual dance competitions for 3 straight years at my last firm
 - ⚡ Fun fact: I can speak 5 different langues
-- ❤️ Let's get connected:
+- ❤️ Let's get connected:https://www.linkedin.com/in/saipavanicheruku/
