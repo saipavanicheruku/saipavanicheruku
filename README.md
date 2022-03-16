@@ -11,7 +11,7 @@ I'm Sai Pavani Cheruku. I am a full time Data Scientist💻
 -> ⏳ Exploring Amazon Web Services & Data Science Tools
 -> 🚀 Always ready to collaborate for Statistical Learning Experiments
 -> 👨‍💻 Former Senior Software Engineer at Lam Research Corporation
--> 🎯 Life Hack: "Dance & Drink & Dance"
+-> 🎯 Life Hack: "Code & Drink & Dance"
 -> 🏆 Winner of Annual dance competitions for 3 straight years at my last firm
 -> ⚡ Fun fact: I can speak 5 different langues
 -> ❤️ Let's get connected:
